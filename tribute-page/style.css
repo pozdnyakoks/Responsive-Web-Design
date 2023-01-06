@@ -1,0 +1,80 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Roboto', sans-serif;
+  background-color: #eee;
+}
+
+.wrapper {
+  margin: 15px auto;
+  padding: 20px 10px;
+}
+
+h1 {
+  text-align: center;
+}
+
+header p {
+  text-align: center;
+}
+
+.img-div {
+  background-color: #fff;
+  padding: 10px 5px;
+}
+
+img {
+  display: block;
+  margin: 0 auto;
+  height: auto;
+  max-width: 100%;
+  margin-bottom: 15px;
+}
+
+#img-caption {
+  text-align: center;
+}
+
+#tribute-info {
+  max-width: 550px;
+  margin: 0 auto;
+}
+
+h2 {
+  text-align: center;
+}
+
+li {
+  margin-bottom: 20px;
+  line-height: 1.8rem;
+}
+
+li span {
+  font-weight: 700;
+}
+
+.quote {
+  margin: 0 auto;
+  font-style: oblique;
+  line-height: 1.8rem;
+}
+
+.quote figcaption {
+  text-align: right;
+}
+
+.more {
+  font-weight: 700;
+  text-align: center;
+}
+
+a:visited {
+  color: #74638f;
+}
+
+a,
+a:active {
+  color: #477ca7;
+}
