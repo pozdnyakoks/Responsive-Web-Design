@@ -10,6 +10,9 @@ Project with positioning and using media-query (3rd proj)
 ## Forms folder
 Project with different types of inputs (1st proj)
 
+## product-landing-page
+Project with flexbox model (4th proj)
+
 ## tribute-page
 Project with responsive layout (2nd proj)
 
